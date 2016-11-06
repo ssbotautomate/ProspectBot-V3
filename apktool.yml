@@ -1,0 +1,31 @@
+version: 2.0.2
+apkFileName: jUnite_v4.0.2_apkpure.com.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '22'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '400028'
+  versionName: 4.0.2
+sharedLibrary: false
+doNotCompress:
+- resources.arsc
+- assets/www/components/easysocial/css/fonts/Open_Sans.woff2
+- assets/www/components/easysocial/css/fonts/Open_Sans_bold.woff2
+- assets/www/components/easysocial/css/fonts/helveticaneue-webfont.woff
+- assets/www/components/easysocial/css/fonts/helveticaneuebold-webfont.woff
+- assets/www/css/font-awesome-4.3.0/fonts/fontawesome-webfont.eot
+- assets/www/css/font-awesome-4.3.0/fonts/fontawesome-webfont.woff
+- assets/www/css/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2
+- assets/www/css/fonts/fontawesome-webfont.eot
+- assets/www/css/fonts/fontawesome-webfont.woff
+- assets/www/css/lib/fonts/fontawesome-webfont.eot
+- assets/www/css/lib/fonts/fontawesome-webfont.woff
+- assets/www/css/lib/fonts/fontawesome-webfont.woff2
+- assets/www/js/video.js-component-master/video-js.swf
+- assets/www/js/video.js-component-master/font/vjs.woff
